@@ -1,2 +1,2 @@
 # recipeAPI
-A Node API for food recipe Application
+A Node API built with Express, and data persited by MongoDB for food recipe Application.
